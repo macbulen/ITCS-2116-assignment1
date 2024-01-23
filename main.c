@@ -1,4 +1,4 @@
-//This is how you write a single line comment in C. Always mention your Name and Student ID on the top of your code before submitting the assignment.
+//Double-slashes are used to write a single line comment in C. Always mention your Name and Student ID on the top of your code before submitting the assignment.
 //Name: Foram Shah
 //Student ID: 80XXXXXXX
 
@@ -13,7 +13,7 @@ int main(void) {
 
   char character = 'z'; //char datatype consists of a single character.
 
-  //printf() is to print something on the screen. and \n is to print     something on the next line.
+  //printf() is to print something on the screen. and \n is to print something on the next line.
   printf("Num = %d \n", x); //%d is a placeholder for integer.
 
   //print multiple variables.
@@ -24,7 +24,7 @@ int main(void) {
   printf("Sum = %d \n", sum);
 
 
-  //Your task is to declare an integer variable 'z', multiply x*y*z and add x+y+z, then print both the results.
+  //Your task is to declare an integer variable 'z', store the value of multiplication (x*y*z) and addition (x+y+z) in new variables, then print both the results.
 
 
   return 0;
