@@ -25,7 +25,12 @@ int main(void) {
 
 
   //Your task is to declare an integer variable 'z', store the value of multiplication (x*y*z) and addition (x+y+z) in new variables, then print both the results.
+  int z = 12;
+  int multAll = (x * y * z);
+  int sumAll = (x + y + z);
 
+  printf("Sum = %d \n", sumAll);
+  printf("Product = %d \n", multAll);
 
   return 0;
 }
